@@ -46,6 +46,9 @@ function App() {
       <div className="mx-auto md:full" id="contact">
         <Contact />
       </div>
+      <footer>
+        
+      </footer>
     </div>
   );
 }
