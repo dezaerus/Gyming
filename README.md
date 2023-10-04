@@ -1,7 +1,7 @@
 # Gyming: a gym landing page
 
-Gyming, where fitness meets finesse! Our gym landing page is your gateway to a world of health and vitality. Dive into a transformative fitness experience tailored to your goals and aspirations.
- 
+Gyming, a gym landing Interface designed for instant engagement. This dynamic interface seamlessly blends style with functionality, providing users with a visually appealing and intuitive introduction.
+
 ## Sample ScreenShots
 ![HomePage](https://github.com/dezaerus/Gyming/blob/main/Screenshots/Screenshot%20(6).png?raw=true)
 ![AboutPage](https://github.com/dezaerus/Gyming/blob/main/Screenshots/Screenshot%20(7).png?raw=true)
